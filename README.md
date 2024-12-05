@@ -1,6 +1,6 @@
-# Aplikasi Flutter - Multi Screen dengan UI/UX Modern
+# Aplikasi Flutter
 
-Proyek ini adalah aplikasi Flutter sederhana yang menampilkan navigasi antar layar dengan desain UI/UX yang modern dan animasi yang halus. Aplikasi ini terdiri dari beberapa layar: **First Screen**, **Second Screen**, **Third Screen**, dan **Profile Screen**.
+Proyek ini adalah aplikasi Flutter sederhana yang menampilkan navigasi antar layar. Aplikasi ini terdiri dari beberapa layar: **First Screen**, **Second Screen**, **Third Screen**, dan **Profile Screen**.
 
 ## Fitur
 
